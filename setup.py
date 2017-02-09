@@ -41,7 +41,7 @@ setup(
         "beautifulsoup4>=4.1.3",
         "Unidecode>=0.04.14",
         "argcomplete>=0.8.0",
-        "httpretty>=0.8.3",
+        "httpretty<0.6.5",
         "lxml>=3.1.2",
         "requests>=2.2.0",
         "six>=1.7.3",
